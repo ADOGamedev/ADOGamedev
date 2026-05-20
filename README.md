@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ADOGamedev
 - 👀 I’m interested in in programing, maths, physics, atronomy, piano and photography.
-- 🌱 I’m currently learning learning Godot Engine
+- 🌱 I’m currently learning C++, Godot and maths!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: adoriangames@gmail.com
 - 😄 Pronouns: he/him
